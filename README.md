@@ -60,6 +60,11 @@ Data: Mock JSON files
 
 State Management: (Kotlin Flow / ViewModel)
 
+## 📸 Screenshots
 
-https://github.com/Nav563/Sports_Dunia/blob/21abbc0f23a4c57c2638e56866c58a3d72ab7f22/WhatsApp%20Image%202025-09-30%20at%2012.43.43.jpeg
+### 🏆 Leaderboard Screen
+![Sposts_Dunia](screenshots/leaderboard.png)
 
+![image alt](https://github.com/Nav563/Sports_Dunia/blob/21abbc0f23a4c57c2638e56866c58a3d72ab7f22/WhatsApp%20Image%202025-09-30%20at%2012.43.43.jpeg)
+
+![Sports_Dunia]()
