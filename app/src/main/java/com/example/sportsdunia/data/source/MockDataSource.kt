@@ -21,12 +21,12 @@ class MockDataSource @Inject constructor() {
         // Mock data from events.json
         return listOf(
             Event(playerId = 101, action = "50_RUNS_MILESTONE"), // +15
-            Event(playerId = 101, action = "TAKE_WICKET"),       // +20
+            Event(playerId = 102, action = "TAKE_WICKET"),       // +20
             Event(playerId = 101, action = "HIT_FOUR"),          // +1
             Event(playerId = 103, action = "HIT_SIX"),           // +2
-            Event(playerId = 102, action = "TAKE_WICKET"),       // +20 (Total 20)
+            Event(playerId = 102, action = "TAKE_WICKET"),       // +20 (Total 40)
             Event(playerId = 104, action = "HIT_FOUR"),          // +1
-            Event(playerId = 101, action = "HIT_SIX"),           // +2 (Total 38)
+            Event(playerId = 101, action = "HIT_SIX"),           // +2 (Total 18)
             Event(playerId = 103, action = "50_RUNS_MILESTONE"), // +15 (Total 17)
             Event(playerId = 105, action = "HIT_SIX"),           // +2  (Total 2)
             Event(playerId = 104, action = "TAKE_WICKET"),       // +20 (Total 21)
