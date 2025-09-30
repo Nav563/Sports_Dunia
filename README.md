@@ -63,8 +63,11 @@ State Management: (Kotlin Flow / ViewModel)
 ## 📸 Screenshots
 
 ### 🏆 Leaderboard Screen
-![Sposts_Dunia](screenshots/leaderboard.png)
+![Leaderboars](screenshots/WhatsApp Image 2025-09-30 at 12.43.43.jpeg)
 
 ![image alt](https://github.com/Nav563/Sports_Dunia/blob/21abbc0f23a4c57c2638e56866c58a3d72ab7f22/WhatsApp%20Image%202025-09-30%20at%2012.43.43.jpeg)
 
-![Sports_Dunia]()
+### 🎯 Toggle Top Performers
+![Toggle](screenshots/WhatsApp Image 2025-09-30 at 12.43.43(1).jpeg)
+
+![Sports_Dunia](https://github.com/Nav563/Sports_Dunia/blob/51c24443634e2a110bdc02f4a56d26e3775eb912/WhatsApp%20Image%202025-09-30%20at%2012.43.43%20(1).jpeg)
